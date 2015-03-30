@@ -62,15 +62,15 @@ x86/x64最適化勉強会資料のリンク
 
 ### [x86/x64最適化勉強会3 2012/3/31](https://atnd.org/events/25823)
 * [日記](http://homepage1.nifty.com/herumi/diary/1203.html#31)
-* [togetter]([togetter](http://togetter.com/li/281704)
+* [togetter](http://togetter.com/li/281704)
 
 発表資料
-* [@nokuno](https://twitter.com/nokuno)さん [ Implementing MicroThread / Coroutine via esp-swap for Danmaku Shooting Games](http://www.slideshare.net/nokuno/implementing-microthread-coroutine-via-espswap-for-danmaku-shooting-games)
+* [@nokuno](https://twitter.com/nokuno)さん [Implementing MicroThread / Coroutine via esp-swap for Danmaku Shooting Games](http://www.slideshare.net/nokuno/implementing-microthread-coroutine-via-espswap-for-danmaku-shooting-games)
 * [@takehiro_t](https://twitter.com/takehiro_t)さん [分岐予測時代のswitch-case](http://www.initialt.org/takehiro-switch-case.PDF)
 * [青木和麻呂](http://flu.if0.org/~maro/j/diary/)さん [暗号実装最適化 － 暗号実装屋の不毛な戦い](http://homepage1.nifty.com/herumi/crypt/slide120404.pdf)
-* [@herumi](https://twitter.com/herumi)さん [](http://www.slideshare.net/herumi/x86opti3)
-* [@sinya8282](https://twitter.com/sinya8282)さん [](http://www.slideshare.net/sinya8282/avx2)
-* [@tanakmura](https://twitter.com/tanakmura)さん [](http://int.main.jp/txt/gcc-mtune.html)
+* [@herumi](https://twitter.com/herumi)さん [Quick Search algorithm and strstr](http://www.slideshare.net/herumi/x86opti3)
+* [@sinya8282](https://twitter.com/sinya8282)さん [AVX2時代の正規表現マッチング ～半群でぐんぐん！～](http://www.slideshare.net/sinya8282/avx2)
+* [@tanakmura](https://twitter.com/tanakmura)さん [GCCの-mtuneは何やってるか](http://int.main.jp/txt/gcc-mtune.html)
 
 ### [x86/x64最適化勉強会2 2011/10/1](https://atnd.org/events/19140)
 * [日記](http://homepage1.nifty.com/herumi/diary/1110.html#1)
