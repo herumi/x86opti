@@ -9,8 +9,7 @@ x86/x64最適化勉強会資料のリンク
 発表資料
 * [@ksmakoto](https://twitter.com/ksmakoto)さん [非正規化数のFZ（FTZ）とDAZの違い](http://www.slideshare.net/ksmakoto/fz-and-daz-in-denormals-fz-daz)
 * [@tanakmura](https://twitter.com/tanakmura)さん [いまどきのmatmul](http://int.main.jp/txt/matmul/)
-* [@Constellation](https://twitter.com/Constellation)さん []()
-* [@](https://twitter.com/)さん [CSS JIT: Just-in-Time Compiled CSS Selectors in WebKit](http://constellation.github.io/blog/2015/03/18/gave-a-talk-about-css-jit/)
+* [@Constellation](https://twitter.com/Constellation)さん [CSS JIT: Just-in-Time Compiled CSS Selectors in WebKit](http://constellation.github.io/blog/2015/03/18/gave-a-talk-about-css-jit/)
 * [青木和麻呂](http://flu.if0.org/~maro/j/diary/)さん [改ざん検知暗号Minalpherの設計とIvy Bridge/Haswellでの最適化](http://www.slideshare.net/herumi/minalpha)
 * 下山武司さん [準同型暗号の実装とMontgomery, Karatsuba, FFTの性能](http://www.slideshare.net/herumi/x86-64study-shimov6)
 * [@herumi](https://twitter.com/herumi)さん [LLVM最適化のこつ](http://www.slideshare.net/herumi/x86opti7)
