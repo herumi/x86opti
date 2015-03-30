@@ -1,7 +1,7 @@
 x86/x64最適化勉強会資料のリンク
 =====
 
-### [x86/x64最適化勉強会7](https://atnd.org/events/61785)
+### [x86/x64最適化勉強会7 2015/3/16](https://atnd.org/events/61785)
 * [x86/x64最適化勉強会7 レポート](http://developer.cybozu.co.jp/tech/?p=8522)
 * [日記](http://homepage1.nifty.com/herumi/diary/1503.html#16)
 * [togetter](http://togetter.com/li/795831)
@@ -15,7 +15,7 @@ x86/x64最適化勉強会資料のリンク
 * 下山武司さん [準同型暗号の実装とMontgomery, Karatsuba, FFTの性能](http://www.slideshare.net/herumi/x86-64study-shimov6)
 * [@herumi](https://twitter.com/herumi)さん [LLVM最適化のこつ](http://www.slideshare.net/herumi/x86opti7)
 
-### [x86/x64最適化勉強会6](https://atnd.org/events/41227)
+### [x86/x64最適化勉強会6 2013/9/1](https://atnd.org/events/41227)
 * [x86/x64最適化勉強会6 レポート](http://developer.cybozu.co.jp/tech/?p=5819)
 * [日記](http://homepage1.nifty.com/herumi/diary/1309.html#1)
 * [togetter](http://togetter.com/li/559012)
@@ -29,7 +29,7 @@ x86/x64最適化勉強会資料のリンク
 * [@tanakmura](https://twitter.com/tanakmura)さん [Cortex-A15 vs Jaguar](Cortex-A15 vs Jaguar)
 * [@k_nitadori](https://twitter.com/k_nitadori)さん [Xeon PhiとN体計算コーディング](http://www.slideshare.net/herumi/xeon-phin-x86x646knitadori)
 
-### [x86/x64最適化勉強会5](https://atnd.org/events/37417)
+### [x86/x64最適化勉強会5 2013/3/28](https://atnd.org/events/37417)
 * [x86/x64最適化勉強会5 レポート](http://developer.cybozu.co.jp/tech/?p=4112)
 * [日記](http://homepage1.nifty.com/herumi/diary/1303.html#28)
 * [togetter](http://togetter.com/li/480158)
@@ -46,7 +46,7 @@ x86/x64最適化勉強会資料のリンク
 * [@natury](https://twitter.com/natury)さん 「ARM NEON」
 * [@herumi](https://twitter.com/herumi)さん [フラグを愛でる](http://www.slideshare.net/herumi/carry-17911029)
 
-### [x86/x64最適化勉強会4](https://atnd.org/events/28847)
+### [x86/x64最適化勉強会4 2012/6/16](https://atnd.org/events/28847)
 * [日記](http://homepage1.nifty.com/herumi/diary/1206.html#16)
 * [togetter](http://togetter.com/li/322708)
 
@@ -60,7 +60,7 @@ x86/x64最適化勉強会資料のリンク
 * [@kzmogi](https://twitter.com/kzmogi)さん 「Intel OpenCL SDK」
 * [@herumi](https://twitter.com/herumi)さん [AA-sort with SSE4.1](http://www.slideshare.net/herumi/x86opti4)
 
-### [x86/x64最適化勉強会3](https://atnd.org/events/25823)
+### [x86/x64最適化勉強会3 2012/3/31](https://atnd.org/events/25823)
 * [日記](http://homepage1.nifty.com/herumi/diary/1203.html#31)
 * [togetter]([togetter](http://togetter.com/li/281704)
 
@@ -72,7 +72,7 @@ x86/x64最適化勉強会資料のリンク
 * [@sinya8282](https://twitter.com/sinya8282)さん [](http://www.slideshare.net/sinya8282/avx2)
 * [@tanakmura](https://twitter.com/tanakmura)さん [](http://int.main.jp/txt/gcc-mtune.html)
 
-### [x86/x64最適化勉強会2](https://atnd.org/events/19140)
+### [x86/x64最適化勉強会2 2011/10/1](https://atnd.org/events/19140)
 * [日記](http://homepage1.nifty.com/herumi/diary/1110.html#1)
 * [togetter](http://togetter.com/li/195531)
 
@@ -89,7 +89,7 @@ x86/x64最適化勉強会資料のリンク
 * [@msiro](https://twitter.com/msiro)さん [Intel Architecture Code Analyzerについて](http://msirocoder.web.fc2.com/file/x86opti2_iaca.pdf)
 
 
-### [x86/x64最適化勉強会1](https://atnd.org/events/18360)
+### [x86/x64最適化勉強会1 2011/8/6](https://atnd.org/events/18360)
 * [日記](http://homepage1.nifty.com/herumi/diary/1108.html#6)
 * [togetter](http://togetter.com/li/171311)
 
