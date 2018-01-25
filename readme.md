@@ -3,7 +3,7 @@ x86/x64最適化勉強会資料のリンク
 
 ### [x86/x64最適化勉強会7 2015/3/16](https://atnd.org/events/61785)
 * [x86/x64最適化勉強会7 レポート](http://developer.cybozu.co.jp/tech/?p=8522)
-* [日記](http://homepage1.nifty.com/herumi/diary/1503.html#16)
+* [日記](http://herumi.in.coocan.jp/diary/1503.html#16)
 * [togetter](http://togetter.com/li/795831)
 
 発表資料
@@ -16,7 +16,7 @@ x86/x64最適化勉強会資料のリンク
 
 ### [x86/x64最適化勉強会6 2013/9/1](https://atnd.org/events/41227)
 * [x86/x64最適化勉強会6 レポート](http://developer.cybozu.co.jp/tech/?p=5819)
-* [日記](http://homepage1.nifty.com/herumi/diary/1309.html#1)
+* [日記](http://herumi.in.coocan.jp/diary/1309.html#1)
 * [togetter](http://togetter.com/li/559012)
 
 発表資料
@@ -30,7 +30,7 @@ x86/x64最適化勉強会資料のリンク
 
 ### [x86/x64最適化勉強会5 2013/3/28](https://atnd.org/events/37417)
 * [x86/x64最適化勉強会5 レポート](http://developer.cybozu.co.jp/tech/?p=4112)
-* [日記](http://homepage1.nifty.com/herumi/diary/1303.html#28)
+* [日記](http://herumi.in.coocan.jp/diary/1303.html#28)
 * [togetter](http://togetter.com/li/480158)
 
 発表資料
@@ -46,7 +46,7 @@ x86/x64最適化勉強会資料のリンク
 * [@herumi](https://twitter.com/herumi)さん [フラグを愛でる](http://www.slideshare.net/herumi/carry-17911029)
 
 ### [x86/x64最適化勉強会4 2012/6/16](https://atnd.org/events/28847)
-* [日記](http://homepage1.nifty.com/herumi/diary/1206.html#16)
+* [日記](http://herumi.in.coocan.jp/diary/1206.html#16)
 * [togetter](http://togetter.com/li/322708)
 
 発表資料
@@ -60,19 +60,19 @@ x86/x64最適化勉強会資料のリンク
 * [@herumi](https://twitter.com/herumi)さん [AA-sort with SSE4.1](http://www.slideshare.net/herumi/x86opti4)
 
 ### [x86/x64最適化勉強会3 2012/3/31](https://atnd.org/events/25823)
-* [日記](http://homepage1.nifty.com/herumi/diary/1203.html#31)
+* [日記](http://herumi.in.coocan.jp/diary/1203.html#31)
 * [togetter](http://togetter.com/li/281704)
 
 発表資料
 * [@nokuno](https://twitter.com/nokuno)さん [Implementing MicroThread / Coroutine via esp-swap for Danmaku Shooting Games](http://www.slideshare.net/nokuno/implementing-microthread-coroutine-via-espswap-for-danmaku-shooting-games)
 * [@takehiro_t](https://twitter.com/takehiro_t)さん [分岐予測時代のswitch-case](http://www.initialt.org/takehiro-switch-case.PDF)
-* [青木和麻呂](http://flu.if0.org/~maro/j/diary/)さん [暗号実装最適化 － 暗号実装屋の不毛な戦い](http://homepage1.nifty.com/herumi/crypt/slide120404.pdf)
+* [青木和麻呂](http://flu.if0.org/~maro/j/diary/)さん [暗号実装最適化 － 暗号実装屋の不毛な戦い](http://herumi.in.coocan.jp/crypt/slide120404.pdf)
 * [@herumi](https://twitter.com/herumi)さん [Quick Search algorithm and strstr](http://www.slideshare.net/herumi/x86opti3)
 * [@sinya8282](https://twitter.com/sinya8282)さん [AVX2時代の正規表現マッチング ～半群でぐんぐん！～](http://www.slideshare.net/sinya8282/avx2)
 * [@tanakmura](https://twitter.com/tanakmura)さん [GCCの-mtuneは何やってるか](http://int.main.jp/txt/gcc-mtune.html)
 
 ### [x86/x64最適化勉強会2 2011/10/1](https://atnd.org/events/19140)
-* [日記](http://homepage1.nifty.com/herumi/diary/1110.html#1)
+* [日記](http://herumi.in.coocan.jp/diary/1110.html#1)
 * [togetter](http://togetter.com/li/195531)
 
 発表資料
@@ -89,7 +89,7 @@ x86/x64最適化勉強会資料のリンク
 
 
 ### [x86/x64最適化勉強会1 2011/8/6](https://atnd.org/events/18360)
-* [日記](http://homepage1.nifty.com/herumi/diary/1108.html#6)
+* [日記](http://herumi.in.coocan.jp/diary/1108.html#6)
 * [togetter](http://togetter.com/li/171311)
 
 発表資料
