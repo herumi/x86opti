@@ -1,8 +1,14 @@
 x86/x64最適化勉強会資料のリンク
 =====
 
+### [x86/x64最適化勉強会8 2018/2/21](https://x86opti.connpass.com/event/76947/)
+* [x86/x64最適化勉強会8 レポート](http://blog.cybozu.io/entry/2018/02/21/080000)
+* [日記](http://herumi.in.coocan.jp/diary/1802.html#17)
+* [togetter](https://togetter.com/li/1200471)
+* [動画](https://www.youtube.com/watch?v=6iyCBXpDaD8)
+
 ### [x86/x64最適化勉強会7 2015/3/16](https://atnd.org/events/61785)
-* [x86/x64最適化勉強会7 レポート](http://developer.cybozu.co.jp/tech/?p=8522)
+* [x86/x64最適化勉強会7 レポート](http://blog.cybozu.io/entry/8522)
 * [日記](http://herumi.in.coocan.jp/diary/1503.html#16)
 * [togetter](http://togetter.com/li/795831)
 
@@ -15,7 +21,7 @@ x86/x64最適化勉強会資料のリンク
 * [@herumi](https://twitter.com/herumi)さん [LLVM最適化のこつ](http://www.slideshare.net/herumi/x86opti7)
 
 ### [x86/x64最適化勉強会6 2013/9/1](https://atnd.org/events/41227)
-* [x86/x64最適化勉強会6 レポート](http://developer.cybozu.co.jp/tech/?p=5819)
+* [x86/x64最適化勉強会6 レポート](http://blog.cybozu.io/entry/5819)
 * [日記](http://herumi.in.coocan.jp/diary/1309.html#1)
 * [togetter](http://togetter.com/li/559012)
 
@@ -29,7 +35,7 @@ x86/x64最適化勉強会資料のリンク
 * [@k_nitadori](https://twitter.com/k_nitadori)さん [Xeon PhiとN体計算コーディング](http://www.slideshare.net/herumi/xeon-phin-x86x646knitadori)
 
 ### [x86/x64最適化勉強会5 2013/3/28](https://atnd.org/events/37417)
-* [x86/x64最適化勉強会5 レポート](http://developer.cybozu.co.jp/tech/?p=4112)
+* [x86/x64最適化勉強会5 レポート](http://blog.cybozu.io/entry/4112)
 * [日記](http://herumi.in.coocan.jp/diary/1303.html#28)
 * [togetter](http://togetter.com/li/480158)
 
