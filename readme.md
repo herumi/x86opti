@@ -1,4 +1,4 @@
-x86/x64最適化勉強会資料のリンク
+[x86/x64最適化勉強会](https://x86opti.connpass.com/)資料のリンク
 =====
 
 ### [x86/x64最適化勉強会8 2018/2/21](https://x86opti.connpass.com/event/76947/)
